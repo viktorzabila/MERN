@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"jwtSecret": "Vitalii",
+	"mongoUri": "mongodb+srv://Vitalii:1111@cluster0.ngw36.mongodb.net/app?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+}
